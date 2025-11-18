@@ -1,2 +1,2 @@
 # 721
-Probability Course Project
+Final course project paper for 625.721 Probability and Stochastic Processes I.
